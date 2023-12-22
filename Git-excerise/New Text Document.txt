@@ -1,0 +1,17 @@
+class Inhert
+{
+public static void main(String args[])
+{
+System.out.println("git");
+}
+}
+
+
+git remote add origin https://github.com/Sreenathp225/Practice-Project.git
+git branch -M main
+git push -u origin main
+
+
+git branch -M main
+git remote add origin https://github.com/Sreenathp225/Practice-Project.git
+git push -u origin main
